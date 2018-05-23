@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jipeg\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_Rouge-Like.-10662435.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jipeg\OneDrive\바탕 화면\Rouge-Like" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Complete-Game" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="BoardManager.cs" t="Include" />
+            <e p="Enemy.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="Loader.cs" t="Include" />
+            <e p="MovingObject.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+            <e p="SoundManager.cs" t="Include" />
+            <e p="Wall.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Fonts" t="Include">
+          <e p="OFL.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BoardManager.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="GM.cs" t="Include" />
+          <e p="Loader.cs" t="Include" />
+          <e p="MovingObject.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="SoundManager.cs" t="Include" />
+          <e p="Wall.cs" t="Include" />
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+              <e p="TutorialInfoEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+            <e p="TutorialInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Rouge-Like.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
